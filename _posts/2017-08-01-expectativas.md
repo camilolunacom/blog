@@ -1,0 +1,28 @@
+---
+title:	Expectativas
+date:	2017-08-01 16:40:00 -0500
+---
+
+Me atrevo a decir que todas nuestras frustraciones como seres humanos (que tienen las necesidades básicas satisfechas) vienen de nuestras expectativas. Específicamente de que nuestras expectativas difieran de la realidad y terminen por no cumplirse. Cuando esperamos que algo pase o que alguien actúe de cierta forma y las cosas no son así, terminamos por sentirnos frustrados. Todavía peor, esa frustración es sufrimiento que se convierte en otras emociones negativas como angustia, rabia, mal genio, tristeza, decepción, etc.
+
+No creo que lo más realista sea llegar al punto de no tener expectativas y nunca esperar nada para no frustrarnos. Creo que es mucho más fácil ser consciente que las expectativas no siempre se van a cumplir y que todo va a estar sin importar lo que pase. Así no se cumplan, casi todo tiene solución y cuando no la tiene, nos terminamos por adaptar al cambio y continuamos con nuestras vidas.
+
+Para empezar, es importante tener en cuenta que cuando no se cumplen nuestras expectativas, no quiere decir que el mundo esté; conspirando en contra de nosotros o que la otra persona quiere hacernos daño. Debemos dejar de tomarnos las cosas como ataques personales y verlas como lo que son: cosas que pasan y cosas que hace la gente, muchas veces sin pensar.
+
+Un ejemplo típico de esto es cuando vamos manejando y nos amargamos porque una persona no hizo la fila y se metió adelante en el tráfico. Sentimos rabia contra esa persona por la situación y si nos fijamos, podemos darnos cuenta que este sentimiento viene de que no se cumplió nuestra expectativa de que todos deberían respetar la fila. Esperamos que todo el mundo sea un conductor modelo que sigue todas las normas de tránsito. Estas expectativas no son realistas y si las seguimos teniendo, vamos a terminar sufriendo muchas veces sin que sea necesario.
+
+Lo que funciona para mí en esos momentos es intentar cambiar mi forma de pensar. Primero, recordarme que no puedo esperar que todos se comporten como yo espero. Segundo, pensar que no todos opinamos lo mismo y lo que para mí es un comportamiento lógico, para otros puede que no. Y tercero y muchas veces más importante, es desviar mis pensamientos. Llevarlos de fijarme en la inconsistencia entre mis expectativas y la realidad, hacia algo positivo como por ejemplo agradecer por la educación que recibí. Gracias a mi educación sé; que buscar el bien de la comunidad genera más valor que buscar ganancia solo para mí. Voy a enfocarme en las cosas buenas y seguir viviendo feliz. De todas formas lo peor que puede pasar es que voy a llegar entre 10 segundos y 2 minutos más tarde a mi destino. Creo que es algo insignificante que no va a hacer ninguna diferencia en mi vida.
+
+No creo que esto sea fácil. Yo todavía soy de los que muchas veces se amarga porque los demás no se comportaran como yo creo deberían. Porque espero que los demás piensen como yo, pero no lo hacen. Porque espero que todo pase como yo tengo planeado, pero es imposible tener 100% seguridad sobre lo que va a pasar o sobre cómo va a pasar. Lo importante es que es una herramienta nueva que tengo para ser feliz y disfrutar más la vida. Que la estoy aplicando cada vez un poco más y que estoy mejorando.
+
+Cuando empezamos a aceptar que las expectativas y la realidad no siempre van a coincidir, podemos cambiar nuestra forma de ver las cosas y parar nuestro propio sufrimiento. Porque al final somos nosotros los únicos afectados y los que sufrimos con emociones negativas. En el ejemplo, la persona que se metió en la fila siguió con su vida como si nada mientras que yo me amargaba el resto del día.
+
+Lo mismo sucede cuando no depende de una persona, pero hay eventos &quot;desafortunados&quot;. Me pasó que perdí miles de fotos digitales porque se dañó el disco duro de mi computador. En ese momento tuve muchos sentimientos negativos, pero principalmente tristeza por haber perdido esos recuerdos. Si buscamos la raíz de la tristeza, realmente fue que mis expectativas (que mis fotos existieran para siempre en mi computador) no coincidieron con la realidad (se dañó el disco duro y las perdí).
+
+Además, no solo fue la tristeza de haberlas perdido lo que me causó sufrimiento. Tambié;n los sentimientos de culpa y rabia por no haber tenido una copia de respaldo. Pero si tambié;n buscamos la raíz de estos sentimientos, veo que vienen de mis expectativas. De esperar identificar todo lo que puede salir mal en todas las situaciones y de esperar tener un plan para evitarlo.
+
+Todas las veces que he sentido emociones negativas he logrado identificar las expectativas que no se habían cumplido. Desde que me di cuenta de esto, intento encontrarlas cuando me doy cuenta que estoy sufriendo por algo.
+
+No digo que sea fácil, pero creo que está claro que es importante encontrar la forma de desprendernos de nuestras expectativas y de darnos cuenta que la mayoría de las cosas por las que sufrimos no valen la pena. Muy malo que alguien se meta sin hacer la fila, sí, pero no puedo pretender que el 100% de las personas se comporten de la manera que para mí es la correcta el 100% de las veces. Muy triste perder mis fotos, sí, pero no puedo esperar que nada malo suceda, ni mucho menos esperar que voy a estar preparado para el 100% de las cosas malas que pueden pasar. Además, los recuerdos más importantes están en mi memoria y lo importante fue haberlos vivido y disfrutado.
+
+No puedo eserar que todas las veces voy a lograr aplicar esto y que nunca más voy a sufrir. Pero sí puedo hacer mi mejor esfuerzo para aplicar esto cada vez más e ir mejorando [incrementalmente](/incremental/).

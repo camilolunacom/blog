@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-	
-<article>
-	<header class="main-post">
-		<time class="post-date" datetime="{{ post.date | date: "%Y-%m-%d %H:%M" }}">{{ post.date | date: "%Y-%m-%d %H:%M" }}}</time>
-		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	</header>
-	<section>
-		{{ content }}
-	</section>
-</article>
+
+{% assign post = page %}
+{% include post.html %}

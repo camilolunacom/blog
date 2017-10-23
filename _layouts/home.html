@@ -4,20 +4,5 @@ layout: default
 
 {{ content }}
 
-{% for post in site.posts %}
-	{% include post.html %}
-{% endfor %}
-
-<!-- <aside>
-	<h2>Leer más</h2>
-		{{#foreach posts}}
-			{{#unless @first}}
-				<div class="other-posts">
-					<time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD/MM/YYYY"}}</time><br>
-					<h4><a href="{{url}}">{{title}}</a></h4>
-				</div>
-			{{/unless}}
-		{{/foreach}}
-	</ul>
-</aside>
-{{ pagination}} -->
+{% assign post = site.posts.first %}
+{% include post.html %}

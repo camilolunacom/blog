@@ -2,8 +2,10 @@
 title: Camilo Luna
 email: camilo@camiloluna.com
 description: Pensamientos, relfexiones, ideas.
+author: Camilo Luna
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 site.lang: es
+permalink: /:title/

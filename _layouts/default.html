@@ -9,17 +9,19 @@
 
 <body>
 
-    {% if jekyll.environment == 'production' and site.gtm %}
+    {% if jekyll.environment == 'production' and site.gtm_ns %}
         {% include gtm-ns.html %}
     {% endif %}
     
     <div class="main-container">
     
-        {% inlcude header.html %}
+        {% include header.html %}
 
-        {{ content }}
+        <div class="main-content">
+            {{ content }}
+        </div>
 
-        {% inlcude footer.html %}
+        {% include footer.html %}
 
   </div>
 
