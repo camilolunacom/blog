@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+    {% include head.html %}
+    
+    {% if jekyll.environment == 'production' and site.gtm %}
+        {% include gtm.html %}
+    {% endif %}
+
+<body>
+
+    {% if jekyll.environment == 'production' and site.gtm %}
+        {% include gtm-ns.html %}
+    {% endif %}
+    
+    <div class="main-container">
+    
+        {% inlcude header.html %}
+
+        {{ content }}
+
+        {% inlcude footer.html %}
+
+  </div>
+
+</body>
+
+</html>

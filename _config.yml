@@ -1,0 +1,9 @@
+# Site settings
+title: Camilo Luna
+email: camilo@camiloluna.com
+description: Pensamientos, relfexiones, ideas.
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+site.lang: es

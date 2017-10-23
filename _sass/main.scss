@@ -1,0 +1,183 @@
+@import 'normalize';
+
+$main-color: #606060;
+$darker-color: #000;
+$lighter-color:#999;
+$lightest-color: #bbb;
+
+* {
+  box-sizing: content-box;
+}
+
+//// CONTAINERS ////
+
+body {
+  font-family: proxima-soft, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.5em;
+  color: $main-color;
+}
+
+.main-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+//// ELEMENTS ////
+
+img {
+  width: 100%;
+}
+
+
+//// SITE HEADER ////
+
+header.site-header {
+  padding: 42px 0 6px 0;
+  h1 {
+    font-family: ff-good-headline-web-pro-con, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    text-align: center;
+    font-size: 60px;
+    line-height: 1.1em;
+    margin: 0;
+  }
+}
+
+header {
+  text-transform: uppercase;
+}
+
+//// NAVIGATION ////
+
+nav {
+  box-sizing: content-box;
+  border-top: solid 1px $lightest-color;
+  border-bottom: solid 1px $lightest-color;
+  text-align: center;
+  padding: 5px 0;
+  margin: 30px 0;
+  .nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    a {
+      color: $main-color;
+      text-transform: uppercase;
+    }
+  }
+  a:hover {
+    text-decoration: none;
+    color: $lightest-color;
+  }
+}
+
+.main-nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.newer-posts {
+  left: -30px;
+  position: relative;
+}
+
+.older-posts {
+  right: -30px;
+  position: relative;
+}
+
+
+//// POST CONTENT ////
+
+.main-post h2 {
+  font-size: 30px;
+  margin-top: 6px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.2em;
+  color: $lightest-color;
+  margin-top: 24px;
+  margin-bottom: 12px;
+  a, a:hover, a:active, a:visited {
+    color: $lightest-color;
+  }
+  .corazon {
+    color: #cc0000;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  color: $main-color;
+}
+
+a {
+  text-decoration: none;
+  color: $lighter-color;
+}
+
+a:active, a:visited {
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  line-height: 1em;
+  a, a:active, a:visited, a:hover {
+    color: $main-color;
+    text-decoration: none;
+  }
+}
+
+aside {
+  margin-top: 32px;
+  text-align: center;
+}
+
+.archive {
+  text-align: center;
+}
+
+.footnote-item p {
+  margin: 0;
+}
+
+.main-post {
+  text-align: center;
+}
+
+.post-date {
+  font-weight: 100;
+  font-size: 15px;
+  line-height: 18px;
+  color: $lighter-color;
+}
+
+.other-posts {
+margin-bottom: 24px;
+  h4 {
+    margin: 0;
+  }
+}
+
+.other-posts h4 a {
+  color: $main-color;
+}
