@@ -1,6 +1,7 @@
-Perspectiva
-
-07/09/2017 06:24
+---
+title: Perspectiva
+date: 2017-07-09 06:24:00 -0500
+---
 
 Hacer una evaluación de casi cualquier cosa en la vida es muy subjetivo y depende de la perspectiva desde la cual lo estamos evaluando. Esto genera problemas porque normalmente en vez de evaluar realmente las cosas, terminamos simplificando el proceso y simplemente comparando con lo que vemos o sabemos que tienen o hacen los demás.
 
