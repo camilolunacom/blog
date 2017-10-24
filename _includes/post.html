@@ -1,12 +1,12 @@
 <article>
-    <header class="main-post">
-        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
-    </header>
-    <section>
-        {{ post.content }}
-    </section>
+<header class="main-post">
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+</header>
+<section>
+{{ post.content }}
+</section>
 </article>
 <nav class="view-more">
-    <a href="{% link archivo.md %}">Ver todos</a>
+<a href="{% link archivo.md %}">Ver todos</a>
 </nav>
