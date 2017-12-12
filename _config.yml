@@ -1,7 +1,7 @@
 # Site settings
 title: Camilo Luna
 email: camilo@camiloluna.com
-description: Pensamientos, relfexiones, ideas.
+description: Ideas poderosas, opiniones debatibles.
 author: Camilo Luna
 plugins:
   - jekyll-feed
