@@ -3,6 +3,7 @@ title: Camilo Luna
 email: camilo@camiloluna.com
 description: Ideas poderosas, opiniones debatibles.
 author: Camilo Luna
+timezone: America/Bogota
 plugins:
   - jekyll-feed
   - jekyll-sitemap
