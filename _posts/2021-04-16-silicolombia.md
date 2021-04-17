@@ -1,0 +1,19 @@
+---
+title: Silicolombia
+date: 2021-04-16 22:49:00 -0500
+---
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Celebramos el anuncio de <a href="https://twitter.com/netflix?ref_src=twsrc%5Etfw">@netflix</a> de abrir oficinas en Colombia, confirmando un nuevo paso para convertirnos en el Silicon Valley de América Latina. Resalta, además, la confianza que tienen las grandes compañías por el talento colombiano y por nuestra política de Economía Naranja</p>&mdash; Iván Duque 🇨🇴 (@IvanDuque) <a href="https://twitter.com/IvanDuque/status/1382748252039229440?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Dejando de lado las afiliaciones políticas, no pude dejar de opinar al leer este *tweet*. No solo porque sea algo completamente incongruente creer que una oficina netamente comercial nos hace prever en lo más mínimo a Silicon Valley, sino porque hay un trasfondo importante que se puede analizar.
+
+Es evidente que estamos siendo un mercado atractivo para grandes empresas de tecnologías norteamericanas. Vemos cómo Facebook ha negociado con los operadores de telefonía móvil para que el consumo de datos en sus aplicaciones sea gratuito. Seamos de las oficinas de Amazon en Colombia y de lo inminente que es el inicio de su operación con ecommerce en el país. Vemos cómo hay cosas que nos salen más baratas en esa misma plataforma si las enviamos directo a Colombia con envío gratis y nos ahorramos los taxes qué hay que pagar si los compráramos en la mayoría de estados de Estados Unidos. Y así encontramos un sinnúmero de ejemplos de lo atractivos que somos los colombianos para esos mercados.
+
+Con esta apertura de la oficina de Netflix, lo único que confirmamos en eso: nuestra disposición como consumidores para gastar dinero en compañías norteamericanas probablemente en una proporción mucho mayor a la de otros países de la región. Y es que todo lo relacionado con ese país ha sido, y sigue siendo, muy aspiración al para nosotros los colombinos. Creemos que cualquier cosa que provenga de allá debe ser mucho mejor que lo nacional. Que lo industrializado, diseñado en E.E.U.U (pero normalmente hecho en China) es muy superior que lo hecho artesanalmente aquí. Irónicamente, cualquier cosa hecha a mano allá puede costar muchas veces lo que vale eso mismo hecho de forma industrial.
+
+Debemos empezar a valorar más lo que hacemos nosotros mismos. Busquemos apoyar nuestra industria, nuestros emprendedores, las empresas locales. Esto no solo va a ayudar a la económica nacional, sino que también le va a dar las herramientas a las empresas locales de generar más empleo para que más personas tengan una vida digna. Comprando local y apoyando los emprendimientos colombianos es la única forma en que vamos a lograr salir adelante. Busquemos dejar la plata en el país. Aquí hacemos de todo y lo hacemos muy bien. Dejemos de buscar qué hay allá y enfoquémonos en encontrar algo diferente aquí. 
+
+Emprendedores, también necesitamos su ayuda. Como consumidores es difícil confiar en ustedes cuando sus páginas web no funcionan; cuando la información que nos parece en Google esta desactualizada (te estoy mirando a ti, horario de las tiendas); cuando nos obligan a tener que preguntar un precio y nos lo mandan por mensaje privado; y cuando sus envíos se demoran más de una semana en llegar siendo que sus bodegas quedan a menos de 1 hora de la mayoría de nuestras casas.
+
+Entre todos podemos ayudarnos. Démonos una mejor experiencia de compra y démonos la oportunidad de probar nuestros productos. Dejemos de creer que lo de afuera es mejor. Abramos los ojos y veamos lo bien que hacemos las cosas aquí.
