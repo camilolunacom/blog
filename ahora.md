@@ -5,10 +5,10 @@ date:	2017-05-17 11:19:00 -0500
 
 *(Esta página está inspirada en la “now page” de Derek Sivers y el proyecto Now Now Now.)*
 
-Estoy viviendo en Lisboa trabajando tiempo completo en [YDigital Media/Mobyd](https://ydigitalmedia.com/es/).
+Estoy viviendo en Bogotá, Colombia trabajando tkempo completo para [White Rabbit Group](https://whiterabbit.group) como Gerente Técnico de Proyectos después de haberles vendido [Alunizar](https://www.alunizar.co).
 
-Estoy entrenando al menos 4 veces a la semana [Freeletics Bodyweight y Running](https://www.freeletics.com/r/4848986) (link de referido).
+Estoy entrenando con mi equipo [aethos](https://www.aethosport.com/) ciclismo y atletismo, con el fin de llegar dentro de poco a triatlón.
 
-En mis tiempos libres estoy modificando el diseño de esta página y aprendiendo un poco sobre desarrollo de [WordPress](https://wordpress.org/), creando las páginas web de [Maca&LoLo](https://www.macaylolo.com) y [NightFall Productions](http://www.nightfall.productions/) y haciendo los cursos de fotografía de [The Ultimate Photography Bundle](https://www.slrlounge.com/the-ultimate-photography-bundle-2017/).
+En mis tiempos libres leo de estoicismo y finanzas personales, buscando hacer las mejores inversiones mientras mantengo mi costo de vida bajo con el objetivo de poder retirarme joven.
 
-Actualizado el 23 de junio de 2017.
+Actualizado el 16 de abril de 2021.
