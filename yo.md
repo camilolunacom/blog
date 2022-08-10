@@ -8,4 +8,4 @@ Minimalista en proceso, administrador de empresas por profesión, desarrollador 
 Intencional y no convencional.
 
 ## Mis proyectos
-Dejé casi todo a un lado para enfocarme en mi trabajo en [White Rabbit Group](https://whiterabbit.group) después de venderles mi estudio y en entrenar para hacer triatlón con el euipo al que pertenezco [aethos](https://www.aethosport.com/).
+De vuelta a [Alunizar](https://www.alunizar.co/) y también trabajando para [MindK](https://www.mindk.com/).
