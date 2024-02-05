@@ -3,7 +3,6 @@ title: Todos hacen lo mejor que pueden
 date: 2024-02-05 11:19:40 -0500
 permalink: /haces-lo-mejor/
 ---
-# Todos hacen lo mejor que pueden
 
 El artículo *[Kids Do Well When They Can](https://dailydad.com/kids-do-well-when-they-can/)* me hizo reflexionar sobre la siguiente pregunta:
 

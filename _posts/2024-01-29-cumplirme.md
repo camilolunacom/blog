@@ -3,7 +3,6 @@ title: ¿Por qué me cuesta tanto cumplirme a mí mismo?
 date: 2024-01-29 09:00:00 -0500
 permalink: /cumplirme/
 ---
-# ¿Por qué me cuesta tanto cumplirme a mí mismo?
 
 No sé cómo forzarme, cómo obligarme a hacer en el momento lo que me propuse a hacer desde el día anterior. Una de las cosas que más me cuesta es levantarme a la hora planeada para alcanzar a hacer todo lo que me gustaría hacer antes de empezar la jornada laboral. No lo hago porque me siento muy cansado y con mucho sueño. Al final es un círculo vicioso: no me levanto temprano, no me da sueño temprano, me duermo tarde, al otro día no me levante temprano.
 
