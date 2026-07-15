@@ -1,0 +1,14 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostArticle from '../components/PostArticle.astro';
+import { getPublishedPosts } from '../utils/posts.js';
+const [post] = await getPublishedPosts();
+const { Content } = await render(post);
+---
+<BaseLayout title="Camilo Luna" canonicalPath="/">
+  <PostArticle post={post} Content={Content} />
+  <nav class="view-more">
+    <a href="/archivo/">Ver todos</a>
+  </nav>
+</BaseLayout>

@@ -1,0 +1,5 @@
+export const navigation = [
+  { title: 'Inicio', url: '/' },
+  { title: 'Ahora', url: '/ahora/' },
+  { title: 'Yo', url: '/yo/' },
+];

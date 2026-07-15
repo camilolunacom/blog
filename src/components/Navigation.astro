@@ -1,0 +1,8 @@
+---
+import { navigation } from '../data/navigation.js';
+---
+<nav class="main-nav">
+  <ul class="nav">
+    {navigation.map((item) => <li><a class="nav-item" href={item.url}>{item.title}</a></li>)}
+  </ul>
+</nav>

@@ -1,0 +1,12 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import PostArticle from '../components/PostArticle.astro';
+import { postPath } from '../utils/urls.js';
+const { post, Content } = Astro.props;
+---
+<BaseLayout title={post.data.title} description={post.data.description} canonicalPath={postPath(post)} type="article">
+  <PostArticle post={post} Content={Content} />
+  <nav class="view-more">
+    <a href="/archivo/">Ver todos</a>
+  </nav>
+</BaseLayout>
