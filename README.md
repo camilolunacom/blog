@@ -1,6 +1,8 @@
 # Camilo Luna
 
-Blog personal de Camilo Luna, migrado de Jekyll a Astro estático para desplegar en Cloudflare Pages.
+Blog personal de Camilo Luna, publicado en `https://www.camiloluna.com`.
+
+El sitio está construido con Astro y se despliega como sitio estático en Cloudflare Pages.
 
 ## Desarrollo
 
@@ -19,9 +21,9 @@ El comando ejecuta:
 
 1. `astro check`
 2. pruebas de helpers y contenido
-3. validación de que los 28 posts migrados conservan metadata/cuerpo frente al fixture Jekyll
+3. validación de posts y rutas esperadas
 4. build estático
-5. validación de rutas, canonical, RSS, sitemap y sintaxis Liquid/Kramdown sin procesar
+5. validación de canonical, RSS, sitemap y salida generada
 
 ## Build de producción
 
@@ -37,5 +39,6 @@ Salida: `dist/`.
 - Build command: `npm run build`
 - Output directory: `dist`
 - Runtime/adapters: ninguno; el sitio es completamente estático
+- Production branch: `master`
 
-La URL canónica sigue siendo `https://www.camiloluna.com` también en previews.
+La URL canónica es `https://www.camiloluna.com` también en previews.
