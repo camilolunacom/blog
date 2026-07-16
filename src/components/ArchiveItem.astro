@@ -1,0 +1,11 @@
+---
+import { formatPostDate } from '../utils/posts.js';
+import { postPath } from '../utils/urls.js';
+const { post } = Astro.props;
+---
+<div class="other-post">
+  <a href={postPath(post)}>
+    <h4>{post.data.title}</h4>
+    <time class="post-date" datetime={post.data.date.toISOString()}>{formatPostDate(post.data.date)}</time>
+  </a>
+</div>

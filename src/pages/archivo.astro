@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArchiveItem from '../components/ArchiveItem.astro';
+import { getPublishedPosts } from '../utils/posts.js';
+const posts = await getPublishedPosts();
+---
+<BaseLayout title="Archivo" canonicalPath="/archivo/">
+  <div class="archive">
+    {posts.map((post) => <ArchiveItem post={post} />)}
+  </div>
+</BaseLayout>

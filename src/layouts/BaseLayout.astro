@@ -1,0 +1,23 @@
+---
+import '../styles/global.scss';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SeoHead from '../components/SeoHead.astro';
+import { site } from '../config/site.js';
+const { title = site.title, description = site.description, canonicalPath = '/', type = 'website' } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang={site.lang}>
+  <head>
+    <SeoHead title={title} description={description} canonicalPath={canonicalPath} type={type} />
+  </head>
+  <body>
+    <div class="main-container">
+      <Header />
+      <div class="main-content">
+        <slot />
+      </div>
+      <Footer />
+    </div>
+  </body>
+</html>

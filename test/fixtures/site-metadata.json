@@ -1,0 +1,228 @@
+{
+  "posts": [
+    {
+      "file": "2014-03-17-sueno.md",
+      "title": "Viviendo un sueño",
+      "date": "2014-03-17 15:00:00 -0500",
+      "permalink": "/sueno/",
+      "slug": "sueno",
+      "bodySha256": "a7ce89383aa4cdb8537c2183cae708a8bbab279590eaf4ea024d95f284b65f39"
+    },
+    {
+      "file": "2016-11-21-semana-vegana.md",
+      "title": "Semana vegana",
+      "date": "2016-11-21 11:00:00 -0500",
+      "permalink": null,
+      "slug": "semana-vegana",
+      "bodySha256": "a10a3d54300a1538940ad08674311f73bf494026584d88c0a4e98abf2d711d9a"
+    },
+    {
+      "file": "2016-12-07-blogguear.md",
+      "title": "Blogguear",
+      "date": "2016-12-07 11:30:00 -0500",
+      "permalink": null,
+      "slug": "blogguear",
+      "bodySha256": "0582e7cd8c7272f02ca6a026f8139bfba9df85112d7fc7e4d228774049460aef"
+    },
+    {
+      "file": "2017-06-16-veintiseis.md",
+      "title": "Veintiséis",
+      "date": "2017-06-16 00:20:00 -0500",
+      "permalink": null,
+      "slug": "veintiseis",
+      "bodySha256": "6a9f555865b36b33a6af5258107d4c25784e62ac081130c99021c2ad51b04790"
+    },
+    {
+      "file": "2017-06-27-ropa.md",
+      "title": "Ropa",
+      "date": "2017-06-27 11:52:00 -0500",
+      "permalink": null,
+      "slug": "ropa",
+      "bodySha256": "10d1d8e91d896819bb10476e52d4c8d7354db66b27cbd28200c5cc5be3b8fc80"
+    },
+    {
+      "file": "2017-07-01-minimalismo.md",
+      "title": "Minimalismo",
+      "date": "2017-07-01 07:39:00 -0500",
+      "permalink": null,
+      "slug": "minimalismo",
+      "bodySha256": "05b71873c901336b28b96147f3e891c7c1ce33feee5734b9c9085c75dc915b52"
+    },
+    {
+      "file": "2017-07-09-perspectiva.md",
+      "title": "Perspectiva",
+      "date": "2017-07-09 06:24:00 -0500",
+      "permalink": null,
+      "slug": "perspectiva",
+      "bodySha256": "ba5b366bbb3434e106876c55cd436713a340687d8a69091d1a39a61e7adb39a9"
+    },
+    {
+      "file": "2017-07-16-criticas.md",
+      "title": "Críticas",
+      "date": "2017-07-16 08:43:00 -0500",
+      "permalink": null,
+      "slug": "criticas",
+      "bodySha256": "a64b4d4b5086116a8d733395070428f65511fa99e8f93500ba3f81b689fbb50e"
+    },
+    {
+      "file": "2017-07-23-incremental.md",
+      "title": "Mejoras incrementales",
+      "date": "2017-07-23 09:01:00 -0500",
+      "permalink": "/incremental/",
+      "slug": "incremental",
+      "bodySha256": "972df8aa06daedf18f3cbf724f54d5a304944d7fbe98634ecf293e9eb5f0ae8e"
+    },
+    {
+      "file": "2017-08-01-expectativas.md",
+      "title": "Expectativas",
+      "date": "2017-08-01 16:40:00 -0500",
+      "permalink": null,
+      "slug": "expectativas",
+      "bodySha256": "9b8c0379934708184ae911273c3e0927dcede9ed65535c8154eac68d41590681"
+    },
+    {
+      "file": "2017-08-13-educacion.md",
+      "title": "Educación",
+      "date": "2017-08-13 12:03:00 -0500",
+      "permalink": null,
+      "slug": "educacion",
+      "bodySha256": "ed9ea6c8f4987b316cbd757939b0b5fe62886415913b27bb91ae52b6769385c7"
+    },
+    {
+      "file": "2017-08-20-privacidad.md",
+      "title": "Privacidad",
+      "date": "2017-08-20 13:51:00 -0500",
+      "permalink": null,
+      "slug": "privacidad",
+      "bodySha256": "47166ca7f75867e2bb5cc6f4f605f3c9c0db3aae9a20d2973edfb1a340bc3d46"
+    },
+    {
+      "file": "2017-08-27-dejar-ir.md",
+      "title": "Dejar ir",
+      "date": "2017-08-27 11:02:00 -0500",
+      "permalink": null,
+      "slug": "dejar-ir",
+      "bodySha256": "080df6c4fdbd2e2a8e0415c309b5fa2b6748e03844db64c6ff66e96bd9396ce8"
+    },
+    {
+      "file": "2017-09-03-intencion.md",
+      "title": "Intención",
+      "date": "2017-09-03 08:28:00 -0500",
+      "permalink": null,
+      "slug": "intencion",
+      "bodySha256": "0a3a6c1feb357ebd7adb7730b620e5e26c346885b587bb783620688c1c9ac09a"
+    },
+    {
+      "file": "2017-09-10-diferentes.md",
+      "title": "Diferentes",
+      "date": "2017-09-10 14:20:00 -0500",
+      "permalink": null,
+      "slug": "diferentes",
+      "bodySha256": "7c991ac175a793537c2d0eb95dd8e6e8f1b38102705d833cf53997c7e5dc55ff"
+    },
+    {
+      "file": "2017-10-14-final.md",
+      "title": "Final",
+      "date": "2017-10-14 10:33 -0500",
+      "permalink": null,
+      "slug": "final",
+      "bodySha256": "92d69868419e694a6749e008c20c2ee3786f2a23e269c76f12f11ea324e24062"
+    },
+    {
+      "file": "2018-12-31-2018.md",
+      "title": "2018",
+      "date": "2018-12-31 19:10 -0500",
+      "permalink": null,
+      "slug": "2018",
+      "bodySha256": "b707870a884886d701f559b43f25151cca4a7fd972530313468df6bf7757f1e9"
+    },
+    {
+      "file": "2019-11-03-42k-Cont.md",
+      "title": "42K (Cont.)",
+      "date": "2019-11-03 15:28 -0500",
+      "permalink": null,
+      "slug": "42k-Cont",
+      "bodySha256": "080351e4eac183807ec9218342dc9ade078c3291a2980f42acf02b98ced34dc7"
+    },
+    {
+      "file": "2019-11-03-42k.md",
+      "title": "42K",
+      "date": "2019-11-03 17:44 -0500",
+      "permalink": null,
+      "slug": "42k",
+      "bodySha256": "1a04f08446220ae1b4c312cb71ee1b13601f33ba297d5422e6b289dee59cd9e2"
+    },
+    {
+      "file": "2020-12-22-hoy.md",
+      "title": "Hoy",
+      "date": "2020-12-22 21:22 -0500",
+      "permalink": null,
+      "slug": "hoy",
+      "bodySha256": "2be9a32e8065fc0d55bf59edb0f9e2ad0b590172fc4b49b6d08f467ddcec38a2"
+    },
+    {
+      "file": "2021-01-02-2020.md",
+      "title": "2020",
+      "date": "2021-01-02 09:18 -0500",
+      "permalink": null,
+      "slug": "2020",
+      "bodySha256": "2a5d926cf45a5160dfe3b0ccb3aa8ea271695471d3f3b094e3036445499dbbbb"
+    },
+    {
+      "file": "2021-04-15-calificar.md",
+      "title": "Calificar es gratis",
+      "date": "2021-04-15 19:18:42 -0500",
+      "permalink": null,
+      "slug": "calificar",
+      "bodySha256": "398bbafc7cdd212fef5511dbd06dea1abeb22b1cfe40bf8cdf3bc8d4874be8f8"
+    },
+    {
+      "file": "2021-04-16-silicolombia.md",
+      "title": "Silicolombia",
+      "date": "2021-04-16 22:49:00 -0500",
+      "permalink": null,
+      "slug": "silicolombia",
+      "bodySha256": "dd264c43452d5d38f6df11eb542f0064eec8ff690be941b6cc4dddd2f88b97a0"
+    },
+    {
+      "file": "2021-06-11-volar.md",
+      "title": "Volar",
+      "date": "2021-06-11 19:39:00 -0500",
+      "permalink": "/volar/",
+      "slug": "volar",
+      "bodySha256": "d2f23f185c1d7519a1b2fad3c27a92104f47529d838a6f79931d35170e906b2f"
+    },
+    {
+      "file": "2022-08-05-escribir.md",
+      "title": "Escribir",
+      "date": "2022-08-05 22:45:28 -0500",
+      "permalink": null,
+      "slug": "escribir",
+      "bodySha256": "658febe41742ce1cd59af32e647aaab1a45902eeef472c2e4d393792185af116"
+    },
+    {
+      "file": "2022-08-09-mejorar.md",
+      "title": "Mejorar",
+      "date": "2022-08-09 21:26:58 -0500",
+      "permalink": null,
+      "slug": "mejorar",
+      "bodySha256": "c4eb796cc235059bddbbc766f35cc60041431ca21c8686083cbfeab501d974aa"
+    },
+    {
+      "file": "2023-03-22-1000-palabras.md",
+      "title": "1000 palabras",
+      "date": "2023-03-22 11:23:41 -0500",
+      "permalink": "/1000-palabras/",
+      "slug": "1000-palabras",
+      "bodySha256": "71c0e529a19c1bec78ef87c6c2189a8033567295e8d7a6ce2dc5898338111115"
+    },
+    {
+      "file": "2024-02-05-haces-lo-mejor.md",
+      "title": "Todos hacen lo mejor que pueden",
+      "date": "2024-02-05 11:19:40 -0500",
+      "permalink": "/haces-lo-mejor/",
+      "slug": "haces-lo-mejor",
+      "bodySha256": "b2084e950e4b96171ce3af5a01bd91e0cd69aa15ce276697ea0944e32678484b"
+    }
+  ]
+}

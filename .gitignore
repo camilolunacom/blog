@@ -4,3 +4,7 @@ _site
 .DS_Store
 .ruby-version
 *~
+node_modules/
+dist/
+.astro/
+.tmp/
